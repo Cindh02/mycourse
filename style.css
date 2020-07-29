@@ -1,0 +1,9 @@
+body{
+	background-color: pink;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	background-color: yellow;
+	border-radius:0;
+	border:0;
+}
